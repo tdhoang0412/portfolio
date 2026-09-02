@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Thanh Dat Hoang
 layout: home
 ---
 
