@@ -5,7 +5,8 @@ layout: home
 
 # Welcome to My Portfolio
 
-I'm a data scientist specializing in big data processing and distributed computing.
+Hello there, my name is Thanh Dat Hoang, born and raised in Vietnam. I did my master's and doctoral thesis on astrophysics at the University of Bonn and the Max Planck Institute for Radio Astronomy. 
+I am now a data scientist specialising in big data processing and distributed computing.
 
 ![Taxi trips](assets/images/trip_counts_by_year.png)
 
