@@ -12,9 +12,6 @@ I am now a data scientist specialising in big data processing and distributed co
 
 ## Projects
 
-- [Taxi Trip Analysis](/2026/08/20/taxi-trip-analysis.html)
-- [Data Pipeline Optimization]()
+- [Taxi Trip Analysis](/pages/nyc-taxi-trip-analysis.md)
+- [My Astrophysics world](/pages/Astro.md)
 
-## About
-
-[Learn more about me](/about.html)
