@@ -15,6 +15,8 @@ I am now a data scientist specialising in big data processing and distributed co
 
 
 ![NYC taxi](/assets/images/nyctaxi.jpg)
+
+<img src="images/plot.png" alt="Loss curve" width="400" />
   
 - [My Astrophysics world](/pages/Astro.md)
   This page showcases a summary of the scientific projects conducted during my PhD. The topics revolve around high-mass star formation. More specifically, my research aimed to study the properties of warm gas envelopes around the regions in our galaxy where high-mass stars are forming. 
