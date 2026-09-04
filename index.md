@@ -11,7 +11,7 @@ I am now a data scientist specialising in big data processing and distributed co
 ## Projects
 
 - [Taxi Trip Analysis](/pages/nyc-taxi-trip-analysis.md)
-  This project analyses all the taxi trips in the vicinity of New York City in the last ten years. It includes trips made with both traditional cabs (taxi) and modern app-based services (FHV aka for-hire vehicle) such as Uber and Lyft. more text will come ...
+  This project analyses over xxx taxi trips in the vicinity of New York City from 2015 until early 2026. It includes trips made with both traditional cabs (taxi) and modern app-based services (FHV aka for-hire vehicle) such as Uber and Lyft. more text will come ...
 
 <p align="center">
   <img src="/assets/images/nyctaxi.jpg" alt="Loss curve" width="400" />
