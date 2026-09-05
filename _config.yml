@@ -2,5 +2,5 @@ title: My Portfolio
 description: Data scientist portfolio
 theme: minima
 header_pages: 
-  - Astro.md
-  - nyc-taxi-trip-analysis.md
+  - pages/Astro.md
+  - pages/nyc-taxi-trip-analysis.md
