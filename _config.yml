@@ -1,6 +1,8 @@
 title: Thanh Dat Hoang
 description: Personal portfolio
 #theme: minima
+plugins:
+  - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"  # or "air", "contrast", etc.
 header_pages: 
