@@ -20,3 +20,6 @@ I am now a data scientist specialising in big data processing and distributed co
 - [My Astrophysics world](/pages/Astro.md)
   This page showcases a summary of the scientific projects conducted during my PhD. The topics revolve around high-mass star formation. More specifically, my research aimed to study the properties of warm gas envelopes around the regions where high-mass stars are forming in our galaxy.
 
+<p align="center">
+  <img src="assets/images/Pillars-of-Creation.jpg" width="400" />
+</p>
