@@ -1,6 +1,7 @@
 title: Thanh Dat Hoang
 description: Personal portfolio
-theme: minima
+#theme: minima
+theme: jekyll-theme-cayman
 header_pages: 
   - pages/Astro.md
   - pages/nyc-taxi-trip-analysis.md
