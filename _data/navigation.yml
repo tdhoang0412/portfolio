@@ -1,0 +1,7 @@
+main:
+  - title: Home
+    url: /
+  - title: Astrophysics
+    url: /pages/Astro/
+  - title: NYC Taxi Trip Analysis
+    url: /pages/nyc-taxi-trip-analysis/
