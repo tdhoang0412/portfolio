@@ -3,7 +3,7 @@ description: Personal portfolio
 plugins:
   - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"  # or "default", "air", "contrast", etc.
+minimal_mistakes_skin: "contrast"  # or "default", "air", "contrast", etc.
 
 author:
   name   : "Thanh Dat Hoang"
@@ -19,3 +19,13 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:tdhoang412@gmail.com"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/tdhoang0412"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/tdhoang0412"
+copyright: "© 2026 Thanh Dat Hoang"
