@@ -7,7 +7,7 @@ minimal_mistakes_skin: "air"  # or "default", "air", "contrast", etc.
 
 author:
   name   : "Thanh Dat Hoang"
-  #avatar : "/assets/images/avatar.jpg"       # optional but recommended
+  avatar : "/assets/images/Dat_photo.jpg"       # optional but recommended
   bio    : "Astrophysics PhD transitioning to data science & engineering."
   links:
     - label: "GitHub"
