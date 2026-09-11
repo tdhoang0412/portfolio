@@ -4,6 +4,8 @@ layout: single
 permalink: /pages/nyc-taxi-trip-analysis/
 categories: [data-science, portfolio, pyspark]
 description: "Analyzing NYC taxi trip patterns using PySpark"
+header:
+  overlay_color: "#24292e"   # dark GitHub-like header
 ---
 ## Taxi Trip Analysis
 
