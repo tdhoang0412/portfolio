@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Dr. Thanh Dat Hoang
 layout: single
 header:
   overlay_color: "#24292e"   # dark GitHub-like header
