@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "NYC Taxi Trip"
-date: 2026-08-20 00:24:00 +0200
+layout: single
+permalink: /pages/nyc-taxi-trip-analysis/
 categories: [data-science, portfolio, pyspark]
 description: "Analyzing NYC taxi trip patterns using PySpark"
 ---
