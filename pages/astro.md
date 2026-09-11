@@ -1,6 +1,6 @@
 ---
 title: "Astro"
-permalink: /pages/Astro/
+permalink: /pages/astro/
 layout: single
 categories: [science, portfolio, astrophysics]
 description: "Studies on massive star-forming regions"
