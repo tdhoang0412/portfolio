@@ -33,3 +33,13 @@ footer:
       icon: "fas fa-envelope"
       url: "mailto:tdhoang412@gmail.com"
 copyright: "Thanh Dat Hoang"
+
+defaults:
+  # All pages and posts
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        main:
+          - title: "Author"
+            type: "author"
