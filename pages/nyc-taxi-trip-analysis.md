@@ -7,7 +7,6 @@ description: "Analyzing NYC taxi trip patterns using PySpark"
 header:
   overlay_color: "#24292e"   # dark GitHub-like header
 ---
-## Taxi Trip Analysis
 <p style="text-align: justify;">
 New York City (NYC) is the largest city in the United States by population. An iconic image of this city in the memory of many is a picture of many yellow cabs cruising through busy streets. This analysis investigates all NYC taxi trips from 2015 to 2026 using trip records published by 
  <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page">
