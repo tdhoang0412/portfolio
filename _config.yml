@@ -35,11 +35,12 @@ footer:
 copyright: "Thanh Dat Hoang"
 
 defaults:
-  # All pages and posts
   - scope:
       path: ""
     values:
       sidebar:
         main:
+          - title: "Home"
+            url: "/"
           - title: "Author"
             type: "author"
