@@ -5,10 +5,6 @@ plugins:
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "contrast"  # or "default", "air", "contrast", etc.
 
-# Disable Jekyll’s default feeds
-feed:
-  path: null
-
 # Author profile (sidebar / footer)
 author:
   name   : "Thanh Dat Hoang"
