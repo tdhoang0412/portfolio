@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "Astro"
-date: 2026-08-20 00:24:00 +0200
+permalink: /pages/Astro/
+layout: single
 categories: [science, portfolio, astrophysics]
 description: "Studies on massive star-forming regions"
 ---
