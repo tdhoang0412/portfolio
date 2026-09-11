@@ -3,4 +3,4 @@ description: Personal portfolio
 plugins:
   - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air"  # or "air", "contrast", etc.
+minimal_mistakes_skin: "air"  # or "default", "air", "contrast", etc.
