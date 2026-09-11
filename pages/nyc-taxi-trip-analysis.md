@@ -12,7 +12,7 @@ New York City (NYC) is the largest city in the United States by population. An i
  <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page">
     the NYC Taxi and Limousine Commission (TLC)
   </a>
-. We are interested in changes in rider behaviours and shifts in the economic health of this business over the last ten years, especially during the adoption of mobile applications and after COVID-19. 
+. We are interested in changes in rider behaviours and shifts in the industry over the last ten years, especially during the adoption of mobile applications and after COVID-19. 
 </p>
 
 
