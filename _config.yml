@@ -34,13 +34,3 @@ footer:
       url: "mailto:tdhoang412@gmail.com"
 copyright: "Thanh Dat Hoang"
 
-defaults:
-  - scope:
-      path: ""
-    values:
-      sidebar:
-        main:
-          - title: "Home"
-            url: "/"
-          - title: "Author"
-            type: "author"
