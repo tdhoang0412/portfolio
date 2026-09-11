@@ -1,5 +1,5 @@
 ---
-title: "NYC Taxi Trip"
+title: "How is the taxi business in NYC in the last 10 years?"
 layout: single
 permalink: /pages/nyc-taxi-trip-analysis/
 categories: [data-science, portfolio, pyspark]
