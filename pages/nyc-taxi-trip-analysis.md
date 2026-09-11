@@ -8,8 +8,8 @@ header:
   overlay_color: "#24292e"   # dark GitHub-like header
 ---
 ## Taxi Trip Analysis
-
-Here's the hourly trip distribution across years:
+New York City (NYC) is the largest city in the United States by population. An iconic image of this city in the memory of many is a picture of many yellow cabs cruising through busy streets of the city. Taxis are obviously a vital part of a megacity like NYC, as they help transport a large number of citizens through the city every day. This analysis investigates NYC taxi trips from 2015 to 2026 using [trip records](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) published by the NYC Taxi and Limousine Commission (TLC). The data include pickup and drop-off times and locations, trip distance, passenger count, payment type, rate type, and detailed fare components, making them suitable for studying both travel demand and urban mobility patterns. A 
+ 
 
 Taxi service has been a very common means of travel in New York City. However, do user behaviour and the economic health of this business model remain the same today as it was a decade ago, especially after COVID-19 and the adoption of modern technology?
 
