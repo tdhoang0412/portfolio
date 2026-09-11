@@ -1,6 +1,8 @@
 ---
 title: Home
 layout: single
+header:
+  overlay_color: "#24292e"   # dark GitHub-like header
 ---
 
 # Welcome to My Portfolio
