@@ -5,6 +5,3 @@ plugins:
   - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "default"  # or "air", "contrast", etc.
-header_pages: 
-  - pages/Astro.md
-  - pages/nyc-taxi-trip-analysis.md
