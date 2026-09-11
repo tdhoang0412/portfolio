@@ -1,5 +1,5 @@
 ---
-title: "How is the taxi business in NYC in the last 10 years?"
+title: "New York City Taxi Trips: Trends, Patterns, and Change from 2015 to 2026"
 layout: single
 permalink: /pages/nyc-taxi-trip-analysis/
 categories: [data-science, portfolio, pyspark]
