@@ -12,7 +12,9 @@ New York City (NYC) is the largest city in the United States by population. An i
 </p>
 
 <p align="center">
-  <img src="../assets/images/nyc-real-yellow-taxi.jpg" width="700" />
+  <img src="{{ '/assets/images/nyc-real-yellow-taxi.jpg' | relative_url }}"
+    alt="New York City taxies"
+    width="700" />
 </p>
 
 This analysis investigates all NYC taxi trips from 2015 to 2026 using trip records published by 
