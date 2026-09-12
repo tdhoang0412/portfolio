@@ -6,9 +6,10 @@ header:
 ---
 
 # Welcome to My Portfolio
-
+<p style="text-align: justify;">
 Hello, my name is Thanh Dat Hoang, born and raised in Vietnam. I currently live in the beautiful city of Bonn in Germany, where I completed my master's and doctoral thesis in Astrophysics at the University of Bonn and the Max Planck Institute for Radio Astronomy. 
 I am now a data scientist specialising in big data processing and distributed computing.
+</p>
 
 ## Projects
 
