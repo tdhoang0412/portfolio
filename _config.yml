@@ -5,6 +5,8 @@ plugins:
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "contrast"  # or "default", "air", "contrast", etc.
 
+baseurl: "/portfolio"
+
 # Author profile (sidebar / footer)
 author:
   name   : "Thanh Dat Hoang"
