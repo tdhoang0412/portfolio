@@ -12,7 +12,7 @@ New York City (NYC) is the largest city in the United States by population. An i
 </p>
 
 <p align="center">
-  <img src="{{ '/assets/images/nyc-real-yellow-taxi.jpg' | relative_url }}"
+  <img src="../assets/images/nyc-real-yellow-taxi.jpg"
     alt="New York City taxies"
     width="700" />
 </p>
