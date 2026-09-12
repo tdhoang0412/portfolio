@@ -11,11 +11,7 @@ header:
 New York City (NYC) is the largest city in the United States by population. An iconic image of this city in the memory of many is a picture of many yellow cabs cruising through busy streets. 
 </p>
 
-<p align="center">
-  <img src="../assets/images/nyc-real-yellow-taxi.jpg"
-    alt="New York City taxies"
-    width="700" />
-</p>
+![New York City taxies](../assets/images/nyc-real-yellow-taxi.jpg)
 
 This analysis investigates all NYC taxi trips from 2015 to 2026 using trip records published by 
  <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page">
