@@ -8,14 +8,18 @@ header:
   overlay_color: "#24292e"   # dark GitHub-like header
 ---
 <p style="text-align: justify;">
-New York City (NYC) is the largest city in the United States by population. An iconic image of this city in the memory of many is a picture of many yellow cabs cruising through busy streets. This analysis investigates all NYC taxi trips from 2015 to 2026 using trip records published by 
+New York City (NYC) is the largest city in the United States by population. An iconic image of this city in the memory of many is a picture of many yellow cabs cruising through busy streets. 
+</p>
+
+<p align="center">
+  <img src="../assets/images/nyc-real-yellow-taxi.jpg" width="700" />
+</p>
+
+This analysis investigates all NYC taxi trips from 2015 to 2026 using trip records published by 
  <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page">
     the NYC Taxi and Limousine Commission (TLC)
   </a>
 . We are interested in changes in rider behaviours and shifts in the industry over the last ten years, especially during the adoption of mobile applications and after COVID-19. 
-</p>
-
-
 
 ![Taxi trips](../assets/images/trip_counts_by_year.png)
 
