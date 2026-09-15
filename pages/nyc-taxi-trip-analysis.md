@@ -17,7 +17,7 @@ This analysis investigates all NYC taxi trips from 2015 to 2026 using trip recor
  <a href="https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page">
     the NYC Taxi and Limousine Commission (TLC)
   </a>
-. We are interested in changes in user behaviours and shifts in the industry over the last ten years, especially during the adoption of mobile applications and after COVID-19. 
+. We are interested in changes in user behaviours and shifts in the industry over the last ten years, especially during the adoption of mobile applications and after COVID-19. This should provide insights to help the company make suitable adjustments to the business in the coming years to adapt to constant changes in the current economy.
 
 ![Taxi trips](../assets/images/trip_counts_by_year.png)
 
