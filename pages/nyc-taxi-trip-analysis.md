@@ -28,8 +28,7 @@ The market has witnessed significant changes in the number of trips. As shown in
 The market share has seen a shift between the provider types: yellow taxi, green taxi, and for-hire vehicle (FHV) over the last decade (see Fig. 2). In 2015, over 70% of trips were with the traditional yellow and green taxi, in which a passenger hails a cab by waving at a nearby taxi. The FHV, in which vehicles are pre-arranged (for example, by ordering an Uber), accounted for around 30% of the market share then. The adoption of the fhv gradually increased its market share to a peak of 85% in 2020 and has been staying around that level for 6 years until now. It is unclear whether the expansion in the fhv's market share reached a saturation level at 85% in 2020 or the expansion trend was suspended by changes in user behaviours after COVID-19. Notably, the market share of green taxis has dropped to a critical level below 0.2% in 2025, questioning whether this taxi brand can continue to survive in the coming years. 
 ![Taxi trips 2](../assets/images/trip_count_composition_by_year.png)
 
-<p align="center">
-  <img src="../assets/images/tripcount_contribution_hour_2015.png" alt="First figure" width="30%">
-  <img src="../assets/images/tripcount_contribution_hour_2020.png" alt="Second figure" width="30%">
-  <img src="../assets/images/tripcount_contribution_hour_2025.png" alt="Third figure" width="30%">
-</p>
+![Taxi trips 2](../assets/images/tripcount_contribution_hour_2015.png)
+![Taxi trips 2](../assets/images/tripcount_contribution_hour_2020.png)
+![Taxi trips 2](../assets/images/tripcount_contribution_hour_2025.png)
+
